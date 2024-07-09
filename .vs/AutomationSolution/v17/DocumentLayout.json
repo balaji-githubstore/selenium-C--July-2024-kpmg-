@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Automation Session\\AutomationSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|c:\\automation session\\automationsolution\\seleniumproject3nunit\\demo2tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|solutionrelative:seleniumproject3nunit\\demo2tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|c:\\automation session\\automationsolution\\seleniumproject3nunit\\demo3alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|solutionrelative:seleniumproject3nunit\\demo3alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|c:\\automation session\\automationsolution\\seleniumproject3nunit\\demo5advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE324CB0-A084-4DD5-B446-4389578785E2}|SeleniumProject3NUnit\\SeleniumProject3NUnit.csproj|solutionrelative:seleniumproject3nunit\\demo5advance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo3AlertTest.cs",
+              "DocumentMoniker": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo3AlertTest.cs",
+              "RelativeDocumentMoniker": "SeleniumProject3NUnit\\Demo3AlertTest.cs",
+              "ToolTip": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo3AlertTest.cs",
+              "RelativeToolTip": "SeleniumProject3NUnit\\Demo3AlertTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:20:23.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Demo2Tabs.cs",
+              "DocumentMoniker": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo2Tabs.cs",
+              "RelativeDocumentMoniker": "SeleniumProject3NUnit\\Demo2Tabs.cs",
+              "ToolTip": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo2Tabs.cs",
+              "RelativeToolTip": "SeleniumProject3NUnit\\Demo2Tabs.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:06:16.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Demo5Advance.cs",
               "DocumentMoniker": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo5Advance.cs",
               "RelativeDocumentMoniker": "SeleniumProject3NUnit\\Demo5Advance.cs",
               "ToolTip": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo5Advance.cs",
               "RelativeToolTip": "SeleniumProject3NUnit\\Demo5Advance.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBQAAAA8AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T05:08:13.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Demo4FrameTest.cs",
               "DocumentMoniker": "C:\\Automation Session\\AutomationSolution\\SeleniumProject3NUnit\\Demo4FrameTest.cs",
               "RelativeDocumentMoniker": "SeleniumProject3NUnit\\Demo4FrameTest.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "SeleniumProject3NUnit\\Demo4FrameTest.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T05:07:47.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T05:07:47.802Z"
             }
           ]
         }

@@ -9,6 +9,7 @@ using NUnit.Framework;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Numerics;
 using OpenQA.Selenium.Support.UI;
+using OpenQA.Selenium.Support.Extensions;
 
 namespace SeleniumProject3NUnit
 {
@@ -59,6 +60,19 @@ namespace SeleniumProject3NUnit
             driver.FindElement(By.XPath("//a[@class='newclose']")).Click();
             driver.FindElement(By.XPath("//a[@class='newclose2']")).Click();
 
+            //count>0
+            //check presence of element
+            if (driver.FindElements(By.XPath("//a[@class='newclose3']")).Count() > 0)
+            {
+                //check element is visible or not
+                if(driver.FindElement(By.XPath("//a[@class='newclose3']")).Displayed)
+                {
+                    driver.FindElement(By.XPath("//a[@class='newclose3']")).Click();
+                }
+               
+            }
+           
+
             //3.Click on Login
             driver.FindElement(By.XPath("//span[text()='Login']")).Click();
 
@@ -94,6 +108,7 @@ namespace SeleniumProject3NUnit
 
             //approach 3
             //javascript
+            driver.ExecuteJavaScript("document.querySelector('#bill-date-long').value='10/12/2022'");
 
             //9.Click on Proceed
             driver.FindElement(By.XPath("//input[@value='PROCEED']")).Click();

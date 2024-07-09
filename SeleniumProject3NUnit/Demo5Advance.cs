@@ -53,5 +53,21 @@ namespace SeleniumProject3NUnit
                 .SendKeys(Keys.ArrowDown).SendKeys(Keys.Enter).SendKeys(Keys.Enter)
                 .SendKeys(Keys.Enter).SendKeys(Keys.Enter).Perform();
         }
+
+
+        [Test]
+        public void FindELementsTest()
+        {
+            IWebDriver driver = new ChromeDriver();
+            driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+
+            driver.Url = "https://www.google.com";
+
+            var elements= driver.FindElements(By.TagName("a"));
+            Console.WriteLine(elements.Count);
+
+            elements[1].Click();
+        }
     }
 }

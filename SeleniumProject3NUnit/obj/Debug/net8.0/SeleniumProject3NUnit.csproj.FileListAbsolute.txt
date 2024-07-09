@@ -102,3 +102,4 @@ C:\Automation Session\AutomationSolution\SeleniumProject3NUnit\obj\Debug\net8.0\
 C:\Automation Session\AutomationSolution\SeleniumProject3NUnit\obj\Debug\net8.0\SeleniumProject3NUnit.pdb
 C:\Automation Session\AutomationSolution\SeleniumProject3NUnit\obj\Debug\net8.0\SeleniumProject3NUnit.genruntimeconfig.cache
 C:\Automation Session\AutomationSolution\SeleniumProject3NUnit\obj\Debug\net8.0\ref\SeleniumProject3NUnit.dll
+C:\Automation Session\AutomationSolution\SeleniumProject3NUnit\obj\Debug\net8.0\SeleniumProject3NUnit.sourcelink.json
