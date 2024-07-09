@@ -1,0 +1,14 @@
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\bin\Debug\net8.0\CSharpProject5Poly.exe
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\bin\Debug\net8.0\CSharpProject5Poly.deps.json
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\bin\Debug\net8.0\CSharpProject5Poly.runtimeconfig.json
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\bin\Debug\net8.0\CSharpProject5Poly.dll
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\bin\Debug\net8.0\CSharpProject5Poly.pdb
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.AssemblyInfoInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.AssemblyInfo.cs
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.csproj.CoreCompileInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.dll
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\refint\CSharpProject5Poly.dll
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.pdb
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\CSharpProject5Poly.genruntimeconfig.cache
+C:\Automation Session\AutomationSolution\CSharpProject5Poly\obj\Debug\net8.0\ref\CSharpProject5Poly.dll

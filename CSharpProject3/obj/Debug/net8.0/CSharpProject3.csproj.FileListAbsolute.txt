@@ -1,0 +1,15 @@
+C:\Automation Session\AutomationSolution\CSharpProject3\bin\Debug\net8.0\CSharpProject3.exe
+C:\Automation Session\AutomationSolution\CSharpProject3\bin\Debug\net8.0\CSharpProject3.deps.json
+C:\Automation Session\AutomationSolution\CSharpProject3\bin\Debug\net8.0\CSharpProject3.runtimeconfig.json
+C:\Automation Session\AutomationSolution\CSharpProject3\bin\Debug\net8.0\CSharpProject3.dll
+C:\Automation Session\AutomationSolution\CSharpProject3\bin\Debug\net8.0\CSharpProject3.pdb
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.AssemblyInfoInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.AssemblyInfo.cs
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.csproj.CoreCompileInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.dll
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\refint\CSharpProject3.dll
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.pdb
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.genruntimeconfig.cache
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\ref\CSharpProject3.dll
+C:\Automation Session\AutomationSolution\CSharpProject3\obj\Debug\net8.0\CSharpProject3.csproj.AssemblyReference.cache

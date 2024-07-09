@@ -1,0 +1,14 @@
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.AssemblyInfoInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.AssemblyInfo.cs
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Automation Session\AutomationSolution\CSharpProject\bin\Debug\net8.0\CSharpProject.exe
+C:\Automation Session\AutomationSolution\CSharpProject\bin\Debug\net8.0\CSharpProject.deps.json
+C:\Automation Session\AutomationSolution\CSharpProject\bin\Debug\net8.0\CSharpProject.runtimeconfig.json
+C:\Automation Session\AutomationSolution\CSharpProject\bin\Debug\net8.0\CSharpProject.dll
+C:\Automation Session\AutomationSolution\CSharpProject\bin\Debug\net8.0\CSharpProject.pdb
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.dll
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\refint\CSharpProject.dll
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.pdb
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\CSharpProject.genruntimeconfig.cache
+C:\Automation Session\AutomationSolution\CSharpProject\obj\Debug\net8.0\ref\CSharpProject.dll

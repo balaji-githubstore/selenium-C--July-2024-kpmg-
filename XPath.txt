@@ -1,0 +1,112 @@
+
+Framework 
+Branch 
+	master --> final code
+	b1-no-page-object -->framework without page object
+
+-----
+XPATH - 
+
+Absolute xpath (not recommended) - /html/body/div[1]/div[1]/div[1]/div[2]/div/div[2]/div/div/div[1]/form/div[1]/div[7]/span/span[3]/input
+
+
+Relative xpath-
+//tagname[@attribute='']
+//tagname[text()='']
+
+Grouping of xpath - starts at 1
+(//input[@name='sex'])[3]
+
+Contains
+//tagname[contains(@attribute,'')]
+//tagname[contains(text(),'')]
+
+
+Example: - validate xpath in chrome - ctrl+f
+//input[@value='-1']
+//label[text()='Custom']
+//div[@class='checkbox-ui']
+//input[contains(@id,'UserFirst')]
+
+//b[contains(text(),'phpMyAdm')]
+
+//frame[contains(@src,'RSNBLogin')]
+
+
+
+
+-----------------------------
+CSS selector
+#id
+.classname
+tagname[attribute='']
+[attribute='']
+
+Example:
+#citiCard1
+select[name='languageChoice']
+
+---------------
+
+admin,pass,OpenEMR
+physician,physician,OpenEMR
+
+---------------
+
+Saul,Saul123
+Kim,Kim123
+bala,bala123
+
+-------------------
+
+john,john123,Invalid username or password
+saul,saul123,Invalid username or password
+peter,perter123,Invalid username or password
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

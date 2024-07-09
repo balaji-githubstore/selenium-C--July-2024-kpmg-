@@ -1,0 +1,14 @@
+C:\Automation Session\AutomationSolution\InhertianceProject\bin\Debug\net8.0\InhertianceProject.exe
+C:\Automation Session\AutomationSolution\InhertianceProject\bin\Debug\net8.0\InhertianceProject.deps.json
+C:\Automation Session\AutomationSolution\InhertianceProject\bin\Debug\net8.0\InhertianceProject.runtimeconfig.json
+C:\Automation Session\AutomationSolution\InhertianceProject\bin\Debug\net8.0\InhertianceProject.dll
+C:\Automation Session\AutomationSolution\InhertianceProject\bin\Debug\net8.0\InhertianceProject.pdb
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.AssemblyInfoInputs.cache
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.AssemblyInfo.cs
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.csproj.CoreCompileInputs.cache
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.dll
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\refint\InhertianceProject.dll
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.pdb
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\InhertianceProject.genruntimeconfig.cache
+C:\Automation Session\AutomationSolution\InhertianceProject\obj\Debug\net8.0\ref\InhertianceProject.dll
